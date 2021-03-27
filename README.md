@@ -1,9 +1,5 @@
 # maratona-discover-01
 
-html {
-scroll-behavior: smooth;
-}
-
 <h1 align="center">
   <img alt="dev.finances" title="dev.finances" src="MaratonaDiscovery/assets/devfinances.png" width="620px" />
 </h1>
@@ -44,4 +40,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo
 
 ---
 
-Evento criado pela Rocketseat ♥
+<p align="center"> vento criado pela Rocketseat ♥ </span>
