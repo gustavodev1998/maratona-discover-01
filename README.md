@@ -1,5 +1,9 @@
 # maratona-discover-01
 
+html {
+scroll-behavior: smooth;
+}
+
 <h1 align="center">
   <img alt="dev.finances" title="dev.finances" src="MaratonaDiscovery/assets/devfinances.png" width="620px" />
 </h1>
