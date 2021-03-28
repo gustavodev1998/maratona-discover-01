@@ -28,4 +28,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo
 
 ---
 
-<p align="center"> Evento criado pela Rocketseat ♥ </span>
+<p align="center"> Evento criado pela Rocketseat e desenvolvido em co-op ♥ </span>
